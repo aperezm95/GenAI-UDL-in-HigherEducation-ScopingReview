@@ -8,7 +8,7 @@ The study systematically examines how **Generative Artificial Intelligence (GenA
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized as follows:
 
@@ -56,7 +56,7 @@ A total of **55 studies** met the inclusion criteria and were analyzed.
 
 ---
 
-## 🎯 Scope and Contributions
+## Scope and Contributions
 
 This repository supports transparency and reproducibility by providing:
 
@@ -66,7 +66,7 @@ This repository supports transparency and reproducibility by providing:
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Angel Pérez-Muñoz**  
   *Universidad Politécnica Salesiana (UPS); Universidad de Alcalá (UAH)*
@@ -82,14 +82,14 @@ This repository supports transparency and reproducibility by providing:
 
 ---
 
-## 📄 Related Publication
+## Related Publication
 
 If you use the datasets or supplementary materials provided in this repository, please cite the associated article.  
 Citation details will be updated upon publication.
 
 ---
 
-## 📜 License
+## License
 
-The contents of this repository are provided for academic and research purposes.  
-Please consult the license file for details on reuse and redistribution.
+This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+You are free to share and adapt the material, provided that appropriate credit is given to the authors.
