@@ -20,9 +20,7 @@ The repository is organized as follows:
   - Educational contexts and accessibility focus  
 
 - **PRISMA-ScR-Fillable-Checklist**  
-  Contains the completed **PRISMA-ScR checklist**  
-  (*Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews*), a standardized reporting tool comprising **20 essential items and 2 optional items**.  
-  The checklist is designed to enhance the **transparency and reporting quality** of scoping reviews by supporting the clear documentation of the **methodology, study selection, and evidence synthesis** processes.
+  The completed PRISMA-ScR checklist, ensuring transparency and methodological rigor according to the 20 essential items for scoping reviews.
 
 
 ---
